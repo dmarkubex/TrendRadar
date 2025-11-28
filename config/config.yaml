@@ -117,3 +117,7 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "tencent"
+    name: "腾讯新闻"
+  - id: "gelonghui"
+    name: "格隆汇"
